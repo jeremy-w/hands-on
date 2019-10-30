@@ -4,6 +4,7 @@ In this tutorial, we will create an application for both iOS and Android, making
 For Android, we'll be using Kotlin/JVM, while for iOS we'll use Kotlin/Native. 
 
 We're going to learn how to:
+
  - Create an [Android app](#creating-an-android-project) using Android Studio
  - Create a shared [Kotlin library](#creating-the-shared-module)
    - Use the Kotlin library [from the Android app](#using-sharedcode-from-android)
